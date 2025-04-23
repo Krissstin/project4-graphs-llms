@@ -1,0 +1,42 @@
+Source,Target,Weight
+Ben,Carol,3
+Ben,Ross,5
+Carol,Monica,3
+Carol,Ross,8
+Carol,Susan,7
+Chandler,Janice,6
+Chandler,Joey,10
+Chandler,Monica,10
+Chandler,Phoebe,6
+Chandler,Rachel,9
+Chandler,Richard,2
+Chandler,Ross,9
+Emily,Ross,6
+Emma,Rachel,6
+Emma,Ross,6
+Gunther,Rachel,5
+Gunther,Ross,2
+Janice,Monica,2
+Joey,Mike,3
+Joey,Monica,8
+Joey,Phoebe,7
+Joey,Rachel,9
+Joey,Richard,1
+Joey,Ross,8
+Mike,Phoebe,9
+Monica,Phoebe,10
+Monica,Rachel,11
+Monica,Richard,6
+Monica,Ross,10
+Phoebe,Rachel,8
+Phoebe,Ross,7
+Rachel,Ross,13
+Ross,Susan,4
+Judy,Ross,4
+Jack,Monica,4
+Estelle,Joey,5
+Mr. Heckles,Monica,2
+Frank Jr.,Phoebe,5
+Alice,Frank Jr.,4
+Judy,Monica,3
+Gunther,Joey,2
